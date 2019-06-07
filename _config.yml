@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: kuchiki_game
 # 描述/签名
-description: 一个可以fork的博客
+description: 關於朽木的作品
 
 #
 # 下面的设定都是可选的
@@ -17,7 +17,7 @@ description: 一个可以fork的博客
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: http://imglf3.nosdn0.126.net/img/Z2ExTTZhWUpYRktBVzJMQzJPb3VuLzZSUnJRSi9uWkU1NkVEazNST094VnE1OHdHb3ErZUFnPT0.jpg
 
 
 # 菜单中的按钮
@@ -32,11 +32,11 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/moulderwood
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: fromendworld@outlook.com 
@@ -48,8 +48,8 @@ footer-links:
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
-  tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
+  tumblr: # https://rein233.tumblr.com
+  twitter: # https://www.twitter.com/kuchiki_game 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
@@ -62,7 +62,7 @@ disqus: loffer #shortname
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: http://moulderwood.lofter.com/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
